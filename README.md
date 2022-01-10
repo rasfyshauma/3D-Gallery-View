@@ -1,4 +1,4 @@
 # 3D-Gallery-View
-Rasfy Shauma Moisa Asda
-201910370311445
-Pengantar Game 5I
+* Nama : Rasfy Shauma Moisa Asda
+* NIM : 201910370311445
+* Kelas : Pengantar Game 5I
